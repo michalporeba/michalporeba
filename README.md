@@ -1,5 +1,4 @@
-### Hi there 👋
-
+Most projects here don't represent working products, but an ongoing work on ideas.
 <!--
 **michalporeba/michalporeba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
