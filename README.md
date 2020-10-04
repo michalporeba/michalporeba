@@ -1,4 +1,4 @@
-Most projects here don't represent working products, but an ongoing work on ideas.
+Most projects here don't represent any working products, but an ongoing struggle with programming concepts and some other ideas.
 <!--
 **michalporeba/michalporeba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
