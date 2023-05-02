@@ -1,6 +1,6 @@
 Hello! 
 
-I'm Michał. You can find me on [LinkedIn](https://www.linkedin.com/in/michalporeba/), [Mastodon](https://techhub.social/@michalporeba), [Twitter](https://twitter.com/michalincs), or [Exercism](https://exercism.org/profiles/michalporeba).
+I'm Michał. You can find me on [LinkedIn](https://www.linkedin.com/in/michalporeba/), [Mastodon](https://techhub.social/@michalporeba), [Twitter](https://twitter.com/michalincs), or [Exercism](https://exercism.org/profiles/michalporeba). [See more](https://michalporeba.github.io/linked)!
 
 Most projects here don't represent any working products, but an ongoing struggle with programming concepts and some other ideas. I'm interested in data in distributed, ocassionaly connected systems, perhaps in anarchic environments. One day, soon, we will work very differently with data. It won't be in centralised repositories, but rather in a more decentralised networks. We just need to figure out how to... 🤔
 
